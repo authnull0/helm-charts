@@ -1,4 +1,4 @@
-# Installing Temporal Cluster in Production
+# Installing Temporal Cluster
 
 ## Prerequisites
 - Postgres v12 or higher
